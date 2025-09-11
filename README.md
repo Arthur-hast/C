@@ -1,2 +1,2 @@
-# C
-Neste repositório, estão registrados meus primeiros programas e futuros projetos em linguagem C.
+# SuperTrunfo
+Neste projeto está sendo elaborado uma jogo chamado SuperTrunfo que é baseado em um jogo de comparação de cartas.
