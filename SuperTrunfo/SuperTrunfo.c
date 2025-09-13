@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // -> MONTAGEM DA CARTA 1 <-
+    // -> MONTAGEM DA CARTA 01 <-
 
     // Caracteristicas da carta 1:
 
@@ -50,7 +50,7 @@ int main() {
 
     superPoder_1 = (float)Populacao_1 + Area_1 + PIB_1 + (float)Pontos_turisticos_1 + Pib_per_capita_1 - (1.0 / Densidade_Populacional_1);
     
-    // -> MONTAGEM DA CARTA 2 <-
+    // -> MONTAGEM DA CARTA 02 <-
 
     //Caracteristicas da carta 2:
 
